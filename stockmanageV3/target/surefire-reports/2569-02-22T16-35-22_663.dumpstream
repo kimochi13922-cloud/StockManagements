@@ -1,0 +1,5 @@
+# Created at 2569-02-22T16:35:23.884
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Work\StockProject\stockproject\stockmanageV2\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
